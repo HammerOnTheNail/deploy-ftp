@@ -1,0 +1,17 @@
+{
+	"name": "deploy-ftp",
+	"version": "1.0.0",
+	"description": "Deploy Git pushes to FTP",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/HammerOnTheNail/deploy-ftp"
+	},
+	"keywords": [
+		"deploy",
+		"ftp",
+		"git"
+	],
+	"author": "NewPlayer",
+	"license": "ISC"
+}
